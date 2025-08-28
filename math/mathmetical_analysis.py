@@ -3,7 +3,7 @@ from general import pi, e
 from math import gamma
 from numpy import sqrt, cbrt, log, arctan
 
-#                                                                name                                     value
+#                                                                Quantity                                 Value
 
 G = 1 / functions.agm(1, sqrt(2))                                # The Gauss's constant                   0.83462684167407318628
 F = 2.80777024202851936522                                       # Fransen-Robinson constant              -
