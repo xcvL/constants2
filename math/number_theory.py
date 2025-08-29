@@ -9,3 +9,4 @@ Bp_L = 1                                   # The Stała Legendre's constant     
 K = 2.58498175957925321706                 # The Sierpiński's constant                                                               -
 C2 = 0.66016181584686957392                # The twin primes constant                                                                -
 mu = 1.45136923488338105028                # The Ramanujan-Soldner constant, Soldner's constant, zero of the integral logarithm      -
+lambda2 = 0.30366300289873265859           # Gauss-Kuzmin-Wirsing constant                                                           -
